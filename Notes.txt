@@ -1,0 +1,12 @@
+OKX Wallet api is wallet connect and is chain connect using we can connect both.
+
+https://medium.com/@paulrfears/how-to-add-algorand-to-metamask-c43576a56415
+
+https://snapalgowallet.netlify.app/docs
+
+NEED TO MERGE THE TWO REPOS
+
+https://stripe.com/docs/api/transfers
+
+https://github.com/unstoppabledomains/dev-docs/blob/main/partner/partner-integration-guides/stripe-payments.md
+Used to pay custom domain. Can connect to okx and perawallet algorand

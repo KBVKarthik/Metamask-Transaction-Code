@@ -1,0 +1,28 @@
+{
+  "version": "4.0.15",
+  "description": "Algorand on Metamask",
+  "proposedName": "algorand",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulfears/snapalgo.git"
+  },
+  "source": {
+    "shasum": "OAKglDwXWlSPupETJsedtMdjVkfhGXCxSHE6rxold9g=",
+    "location": {
+      "npm": {
+        "filePath": "dist/bundle.js",
+        "iconPath": "images/logo.svg",
+        "packageName": "algorand",
+        "registry": "https://registry.npmjs.org"
+      }
+    }
+  },
+  "initialPermissions": {
+    "snap_confirm": {},
+    "snap_getBip44Entropy_283": {},
+    "endowment:network-access": {},
+    "snap_notify": {},
+    "snap_manageState": {}
+  },
+  "manifestVersion": "0.1"
+}
